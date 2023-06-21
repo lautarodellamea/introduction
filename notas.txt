@@ -1,0 +1,9 @@
+- crear entorno virtual
+-.gitignore
+-requirements.txt (pip install -r requirements.txt)
+
+Estructura carpeta "core"
+  -asgi (asincrono)
+  -wsgi (no asincrono)
+
+  
